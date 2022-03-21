@@ -1,20 +1,20 @@
 {
     "env": {
-        "TOKEN": "",
-        "PREFIX": "",
+        "TOKEN": "OTU1Mzg5MzkxOTczNTM1ODQ1.Yjg9tQ.xs8_hkOcf4OHdYM-9s4hJshJMTg",
+        "PREFIX": "+",
         "MongoDB_TOKEN": "",
-        "INVITE": "",
-        "WEBSITE": "",
+        "INVITE": "https://discord.com/api/oauth2/authorize?client_id=955389391973535845&permissions=8&scope=bot",
+        "WEBSITE": "soon",
         "google_API": "",
         "google_Engine_id": "",
-        "spotify_clientID": "",
-        "spotify_clientSecret": "",
-        "news_API": "",
-        "giphy_API": ""
+        "spotify_clientID": "5215e2e829c84398ba3733b203fcf4cc",
+        "spotify_clientSecret": "eb09a4af84854db0a26c00bdad5a2b85",
+        "news_API": "7a11772cc0a2412a8764ac62155c4612",
+        "giphy_API": "fVOXbfcBdwPBcdbkW8fXWpovxitLDb4K"
     },
     "music": {
         "musicRequestImage": "",
-        "youtubeCookie": ""
+        "youtubeCookie": "NID=217=cBcJJoUhXtDjBVTtjcEZDvqH0rMKG4P6lQt_ia7NpNzrzTjXzRMPZyNXPyLqukb3aauhv15LGnUi6rHD-T7TaiDXDN9aYPGDEduhSojes5GOxU1_VtcpfP4ZtE0sY399Es4ADa62LdauHyx-9XX_8F9rLSJyrA7qUaqRT6WHOmY"
     },
     "botlogs": {
         "inviteLogs": "",
